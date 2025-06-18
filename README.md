@@ -15,13 +15,13 @@
 ## Installation
 
 ```sh
-Hyde theme import "Greenify" https://github.com/mahaveergurjar/Theme-Gallery/tree/Greenify
+hydectl theme import "Greenify" https://github.com/mahaveergurjar/Theme-Gallery/tree/Greenify
 ```
 
 or
 
 ```sh
-Hyde theme import
+hydectl theme import
 ```
 
 and choose Greenify
